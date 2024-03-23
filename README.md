@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá, me chamo Emanuel Marinho! 
+## Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**Emanuel-Marinho/Emanuel-Marinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou trabalhando com a psicologia clínica, mas em transição de carreira
+- 🌱 Atualmente estou aprendendo sobre PHP voltado ao back end
+- 🤔 Estou procurando uma oportunidade para ingressar no mundo da tecnologia!
+- ⚡ Uma curiosidade: Sou fascinado por cinema, posso dar ótimas indicações
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ferramentas e Tecnologias
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"  width="40" height="40" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="40" height="40" />
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+          
+          
+          
